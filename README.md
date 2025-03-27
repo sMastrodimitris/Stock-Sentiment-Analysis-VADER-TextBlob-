@@ -117,7 +117,7 @@ After testing for five weekends, the tool achieved the following mean accuracy:
 - **TextBlob**: 76%
 - **VADER**: 73%
 
-However, it struggles to predict market movements during crashes, like on February 10th, 2025, where accuracy dropped to 0% due to the inability to detect drastic market changes.
+However, is completely blind at market crashes, like on February 10th, 2025, where accuracy dropped to 0% due to the inability to detect drastic market changes.
 
 ---
 
